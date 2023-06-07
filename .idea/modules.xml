@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wastemanagement/wastemanagement.iml" filepath="$PROJECT_DIR$/wastemanagement/wastemanagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wastemanagement/android/wastemanagement_android.iml" filepath="$PROJECT_DIR$/wastemanagement/android/wastemanagement_android.iml" />
+    </modules>
+  </component>
+</project>
